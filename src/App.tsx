@@ -1,14 +1,12 @@
 import './App.css'
-import HelloWorld from './components/HelloWorld'
-import Day14 from './input/Day14'
-import Day13 from './state/main'
+import Day16 from './useEffect/Day16'
 
 function App() {
   return (
     <div>
       {/* <HelloWorld/> */}
    
-      <Day14/>
+      <Day16/>
      
     </div>
   )
